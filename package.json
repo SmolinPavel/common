@@ -1,0 +1,8 @@
+{
+  "name": "@smolinp/common",
+  "version": "1.0.0",
+  "devDependencies": {
+    "del-cli": "^3.0.1",
+    "typescript": "^4.2.4"
+  }
+}
